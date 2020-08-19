@@ -1,0 +1,183 @@
+body{
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/10/guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg");
+    background-attachment: fixed;
+  
+}
+.para
+{
+    margin-top: 0cm;
+    margin-bottom: 1cm;
+   
+    padding: 0.5cm;
+    font-size: larger;
+    font-weight: bolder;
+    color:black;
+}
+h1{
+    font-size: 100%;
+}
+
+
+#form
+{
+    color: black;
+  background-image: radial-gradient(white,darkgray);
+    margin:1cm 16cm 1cm 0cm;
+   
+}
+
+.bx
+{
+    scroll-margin-block-start: 2cm;
+    border-radius: 1cm;
+    border: black;
+    color: gray;
+}
+.button
+{
+    border-radius: 2cm;
+    size:50px;
+    margin-left: 4cm;
+    margin-top: 0.2cm;
+}
+.all
+{
+    box-shadow: 0 6px 6px rgba(0,0,0,0.6);
+    background-color: transparent;
+    color:black;
+    padding: 5px;
+    font-weight: bolder;
+
+}
+#id
+{
+   background-color:transparent;
+   padding: 0.2cm;
+ 
+}
+#id1
+{
+    margin-left: 15cm;
+    margin-top: 0cm;
+    margin-bottom: 15cm;
+}
+#contact
+{
+    background-image: radial-gradient(white,grey);
+    margin-top: 1cm;
+}
+
+#rooms
+{
+    margin:1cm 5cm 1cm 1cm;
+    padding: 1%;
+background-color: white;
+border: rgba(128, 91, 91, 0.034);
+border-radius: 1cm;
+font-style: oblique;
+font-variant-caps: all-small-caps;
+color: hsla(hue, saturation, lightness, alpha);
+}
+
+
+#Reserved
+{
+    color:white;
+    font-weight: bold;
+    background-color: black;
+}
+
+#welcome
+{
+    background-color:rgb(167, 99, 10);
+    margin-left: 4cm;
+    margin-right: 15cm;
+    margin-top: 1cm;
+    padding:1cm;
+    border:double;
+    border-radius: 1cm;
+    color: rgb(51, 23, 3);
+font-weight: bolder;
+
+}
+
+.quick
+{
+    background-color:transparent;
+    color: black;
+ 
+    border-radius: 2cm;
+}
+h4
+{
+font-size: xx-large;
+font-variant-caps: titling-caps;
+background-color: transparent;
+}
+h1
+{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 8cm;
+}
+
+.img
+{
+    margin-left:8cm;
+}
+h6{
+font-variant-caps: small-caps;
+font-style: italic;
+font-size: 0.8cm;
+color: rgb(51, 23, 3);
+
+margin:1cm 8cm 0.5cm 6cm;
+
+}
+#starttt
+{
+    margin-left: 8cm;
+    margin-top: 0cm;
+    margin-bottom: 1cm;
+    font-style: italic;
+
+    font-weight: bolder;
+    font-size: 0.2cm;
+}
+#gal
+{
+    background-color: transparent;
+}
+.rrr
+{
+    margin-left: 1cm;
+    margin-top: 0.5cm;
+}
+
+#down
+{
+    background-color:rgba(165, 42, 42, 0.089);
+    color: rgb(51, 23, 3);
+    font-weight: bolder;
+ padding: 0.5cm;
+ border:  rgb(82, 65, 44);
+    border-style: double;
+}
+    
+
+#bbb
+{
+color:rgb(18, 59, 87);
+border-radius: 1cm;
+    font-weight: bolder;
+}
+h3{
+    font-style: italic;
+}
+
+#text
+{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+}
