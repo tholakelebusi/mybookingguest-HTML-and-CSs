@@ -230,5 +230,30 @@ appDiv.innerHTML = `<head>
         <div id="Reserved">
           <p>@Bluelight All Right Reserved</p>
           </div>
+        
+<div class="box">
+	<a class="button" href="#popup1">contact</a>
+</div>
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Here i am</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+		     <div id="contact">
+                <h3>Direct Contact Details</h3>
+            
+                  
+           
+                <p>Telephone: <b>+27 11 146 9885</b></p>
+                <p>Cell phone: <b>+27 73 446 9885</b></p>
+                <p>Email: <b>bokingroom@guesthouse.co.za</b></p>
+                <p>Physical Address: <b>13165 palmrige primrose street Gauteng South Africa</b></p>
+        
+        
+        </div>
+		</div>
+	</div>
+</div>
 </body>
 `;
