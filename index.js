@@ -22,9 +22,42 @@ appDiv.innerHTML = `<head>
         Residents are provided with opportunities to socialize and participate in a variety of activities.
       </i></p>
 </div>
-<div id="down">
-        
 
+
+
+<div class="box">
+	<a class="button" href="#popup1">contact</a>
+</div>
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+		     <div id="contact">
+                <h3>Direct Contact Details</h3>
+            
+                  
+           
+                <p>Telephone: <b>+27 11 146 9885</b></p>
+                <p>Cell phone: <b>+27 73 446 9885</b></p>
+                <p>Email: <b>bokingroom@guesthouse.co.za</b></p>
+                <p>Physical Address: <b>13165 palmrige primrose street Gauteng South Africa</b></p>
+        
+        
+        </div>
+		</div>
+	</div>
+</div>
+
+        
+<div class="box">
+	<a class="button" href="#popup2">Query Form</a>
+</div>
+
+<div id="popup2" class="overlay">
+	<div class="popup">
+		<a class="close" href="#">&times;</a>
+		<div class="content">
     <div class="quick">
         <h1>Quick Query</h1>
           <div>
@@ -47,8 +80,20 @@ appDiv.innerHTML = `<head>
             </div>
             <button type="button" onclick="alert('Successfully submited')">Submit</button> 
             <div id="bookings">
-       
+       </div>
+       </div>
+       </div>
+       </div>
+
       
+      <div class="box">
+	<a class="button" href="#popup3">Booking Form</a>
+</div>
+
+<div id="popup3" class="overlay">
+	<div class="popup">
+		<a class="close" href="#">&times;</a>
+		<div class="content">
                 <div id="form">
                     <div>
                     <h3>Booking Form</h3>
@@ -113,15 +158,26 @@ appDiv.innerHTML = `<head>
             
               <div>
               <button type="button" id="bbb" onclick="alert('Successfully submited We will contact you soon')">BOOK NOW</button> 
-            </div>
-                </div>
+      
+        
+</div>
           </div>
-
-          
+          </div>
+          </div>
+          </div>
 </div>
 
 
-          <div id="rooms">
+<div class="box">
+	<a class="button" href="#popup6">Room Price</a>
+</div>
+
+<div id="popup6" class="overlay">
+	<div class="popup">
+
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+          
     
             <h3>Rooms</h3>
           
@@ -150,8 +206,19 @@ appDiv.innerHTML = `<head>
         <br><b>Other</b>:Warm/Cool Air-Conditioner,Tea and Coffee facility and Bar Fridge
      
           </div>
+          </div
+          </div>
+          </div>
 
         
+        <div class="box">
+	<a class="button" href="#popup4">View Gallery</a>
+</div>
+
+<div id="popup4" class="overlay">
+	<div class="popup">
+		<a class="close" href="#">&times;</a>
+		<div class="content">
             <div id="gal">
                 
             <h1>Interior and Exterior view</h1>
@@ -206,54 +273,20 @@ appDiv.innerHTML = `<head>
                 <img src="http://www.parkregisbirmingham.co.uk/files/2015/11/Standard-bedroom.jpg" height="150" width="200">
                
             
-           
+           </div>
+           </div>
+           </div>
         </div>
         
         
         
-            <div id="contact">
-                <h3>Direct Contact Details</h3>
-            
-                  
-           
-                <p>Telephone: <b>+27 11 146 9885</b></p>
-                <p>Cell phone: <b>+27 73 446 9885</b></p>
-                <p>Email: <b>bokingroom@guesthouse.co.za</b></p>
-                <p>Physical Address: <b>13165 palmrige primrose street Gauteng South Africa</b></p>
-        
-        
-        </div>
-
-
+    
 
         
         <div id="Reserved">
           <p>@Bluelight All Right Reserved</p>
           </div>
         
-<div class="box">
-	<a class="button" href="#popup1">contact</a>
-</div>
 
-<div id="popup1" class="overlay">
-	<div class="popup">
-		<h2>Here i am</h2>
-		<a class="close" href="#">&times;</a>
-		<div class="content">
-		     <div id="contact">
-                <h3>Direct Contact Details</h3>
-            
-                  
-           
-                <p>Telephone: <b>+27 11 146 9885</b></p>
-                <p>Cell phone: <b>+27 73 446 9885</b></p>
-                <p>Email: <b>bokingroom@guesthouse.co.za</b></p>
-                <p>Physical Address: <b>13165 palmrige primrose street Gauteng South Africa</b></p>
-        
-        
-        </div>
-		</div>
-	</div>
-</div>
 </body>
 `;
