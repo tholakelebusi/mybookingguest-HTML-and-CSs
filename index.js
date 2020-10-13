@@ -19,7 +19,7 @@ appDiv.innerHTML = `<head>
     <p><i>Bluelight is ideally situated for business and leisure traveler,close to Pretoria CBD,Hatfield,Brooklyn and 5 minutes walk both Loftus stadium and Univercity of Pretoria the privacy you want,
         while also receiving the care you deserve from compassionate 
        and competent staff.
-        Residents are provided with opportunities to socialize and participate in a variety of activities.
+        
       </i></p>
 </div>
 

@@ -1,6 +1,8 @@
 body{
     background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/10/guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg");
     background-attachment: fixed;
+    padding-left: 2cm;
+    padding-right: 2cm;
   
 }
 .para
@@ -21,7 +23,7 @@ h1{
 #form
 {
     color: black;
-  background-image: radial-gradient(white,darkgray);
+
     margin:1cm 16cm 1cm 0cm;
    
 }
@@ -31,7 +33,7 @@ h1{
     scroll-margin-block-start: 2cm;
     border-radius: 1cm;
     border: black;
-    color: gray;
+   
 }
 .button
 {
@@ -181,12 +183,7 @@ h3{
     font-style: italic;
     font-weight: bolder;
 }
-body {
-  font-family: Arial, sans-serif;
-  background: url(http://www.shukatsu-note.com/wp-content/uploads/2014/12/computer-564136_1280.jpg) no-repeat;
-  background-size: cover;
-  height: 100vh;
-}
+
 
 h1 {
   text-align: center;
@@ -198,9 +195,9 @@ h1 {
 .box {
   width: 40%;
   margin: 0 auto;
-  background: rgba(255,255,255,0.2);
+  background: transparent;
   padding: 35px;
-  border: 2px solid #fff;
+ 
   border-radius: 20px/50px;
   background-clip: padding-box;
   text-align: center;
@@ -210,6 +207,8 @@ h1 {
   font-size: 1em;
   padding: 10px;
   color:black;
+  height:2cm;
+  width: 2cm;
   border: 2px solid #06D85F;
   border-radius: 20px/50px;
   text-decoration: none;
