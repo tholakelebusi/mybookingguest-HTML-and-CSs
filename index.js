@@ -51,14 +51,14 @@ appDiv.innerHTML = `<head>
 
         
 <div class="box">
-	<a class="button" href="#popup2">Query Form</a>
+	<a class="button" href="#popup2">Quick Query</a>
 </div>
 
 <div id="popup2" class="overlay">
 	<div class="popup">
 		<a class="close" href="#">&times;</a>
 		<div class="content">
-    <div class="quick">
+		     <div id="contact">
         <h1>Quick Query</h1>
           <div>
             <label for="name">Name</label>
@@ -79,22 +79,23 @@ appDiv.innerHTML = `<head>
               <input type="text" name="Message">
             </div>
             <button type="button" onclick="alert('Successfully submited')">Submit</button> 
-            <div id="bookings">
+           
        </div>
        </div>
        </div>
        </div>
 
       
-      <div class="box">
-	<a class="button" href="#popup3">Booking Form</a>
+   
+   <div class="box">
+	<a class="button" href="#popup3">Bookings</a>
 </div>
 
 <div id="popup3" class="overlay">
 	<div class="popup">
 		<a class="close" href="#">&times;</a>
 		<div class="content">
-                <div id="form">
+		     <div id="contact">            
                     <div>
                     <h3>Booking Form</h3>
                      <label>Name</label>
@@ -158,14 +159,15 @@ appDiv.innerHTML = `<head>
             
               <div>
               <button type="button" id="bbb" onclick="alert('Successfully submited We will contact you soon')">BOOK NOW</button> 
-      
+      </div>
+      </div>
+      </div>
+      </div>
         
-</div>
-          </div>
-          </div>
-          </div>
-          </div>
-</div>
+
+        
+         
+   
 
 
 <div class="box">
@@ -208,7 +210,7 @@ appDiv.innerHTML = `<head>
           </div>
           </div
           </div>
-          </div>
+        
 
         
         <div class="box">
