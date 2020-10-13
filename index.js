@@ -94,8 +94,7 @@ appDiv.innerHTML = `<head>
 <div id="popup3" class="overlay">
 	<div class="popup">
 		<a class="close" href="#">&times;</a>
-		<div class="content">
-		     <div id="contact">            
+		<div class="content">           
                     <div>
                     <h3>Booking Form</h3>
                      <label>Name</label>
@@ -221,11 +220,7 @@ appDiv.innerHTML = `<head>
 	<div class="popup">
 		<a class="close" href="#">&times;</a>
 		<div class="content">
-            <div id="gal">
-                
-            <h1>Interior and Exterior view</h1>
-                  
-                
+               
                 <img src="http://alphaducap.co.za/images/Picture3.jpg" height="150" width="200">
                 <img src="https://www.roomsforafrica.com/new-gallery/almarviewguesthouse_15-x_large.jpg" height="150" width="200">
                 <img src="http://olgapuri.org/wp-content/uploads/2019/11/guest-house-view-small-1-e1574847707385-600x400.jpg" height="150" width="200">
@@ -278,11 +273,10 @@ appDiv.innerHTML = `<head>
            </div>
            </div>
            </div>
-        </div>
+      
         
         
         
-    
 
         
         <div id="Reserved">
