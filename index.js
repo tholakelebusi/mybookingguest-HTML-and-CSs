@@ -12,7 +12,7 @@ appDiv.innerHTML = `<head>
    <h6>Bluelight Guest house</h6> 
 <div id="starttt">
    
-    <img src="https://lh3.googleusercontent.com/proxy/uKFlCVFQc4i2aDYslLlWvaP50rl99x4P0B5LpgLviauGVKTwC_2nGfdjk8I3mCRdRpsH0k9vg46rM7j3gqmGm3fYcdIPBHg0H2vPkBccXd-ZwGlag_B8jZC0" height="120" width="120">
+  
   </div>
   
   <div class="para">

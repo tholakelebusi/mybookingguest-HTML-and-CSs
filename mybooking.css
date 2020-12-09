@@ -1,194 +1,165 @@
-body{
-    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/10/guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg");
-    background-attachment: fixed;
-    padding-left: 2cm;
-    padding-right: 2cm;
-  
+body {
+  background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https://static.onecms.io/wp-content/uploads/sites/28/2017/10/guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg");
+  background-attachment: fixed;
+  padding-left: 2cm;
+  padding-right: 2cm;
+  background-color: brown;
 }
-.para
-{
-    margin-top: 0cm;
-    margin-bottom: 1cm;
-   
-    padding: 0.5cm;
-    font-size: larger;
-    font-weight: bolder;
-    color:black;
+.para {
+  margin-top: 0cm;
+  margin-bottom: 1cm;
+
+  padding: 0.5cm;
+  font-size: larger;
+  font-weight: bolder;
+  color: black;
+  background-color: brown;
 }
-h1{
-    font-size: 100%;
+h1 {
+  font-size: 100%;
 }
 
+#form {
+  color: black;
 
-#form
-{
-    color: black;
-
-    margin:1cm 16cm 1cm 0cm;
-   
+  margin: 1cm 16cm 1cm 0cm;
 }
 
-.bx
-{
-    scroll-margin-block-start: 2cm;
-    border-radius: 1cm;
-    border: black;
-   
+.bx {
+  scroll-margin-block-start: 2cm;
+  border-radius: 1cm;
+  border: black;
 }
-.button
-{
-    border-radius: 2cm;
-    size:50px;
-    margin-left: 4cm;
-    margin-top: 0.2cm;
+.button {
+  border-radius: 2cm;
+  size: 50px;
+  margin-left: 4cm;
+  margin-top: 0.2cm;
+  background-color: brown;
 }
-.all
-{
-    box-shadow: 0 6px 6px rgba(0,0,0,0.6);
-    background-color: transparent;
-    color:black;
-    padding: 5px;
-    font-weight: bolder;
-
+.all {
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.6);
+  background-color: transparent;
+  color: black;
+  padding: 5px;
+  font-weight: bolder;
 }
-#id
-{
-   background-color:transparent;
-   padding: 0.2cm;
- 
+#id {
+  background-color: transparent;
+  padding: 0.2cm;
 }
-#id1
-{
-    margin-left: 15cm;
-    margin-top: 0cm;
-    margin-bottom: 15cm;
+#id1 {
+  margin-left: 15cm;
+  margin-top: 0cm;
+  margin-bottom: 15cm;
 }
-#contact
-{
-    background-image: radial-gradient(white,grey);
-    margin-top: 1cm;
+#contact {
+  background-image: radial-gradient(white, grey);
+  margin-top: 1cm;
 }
 
-#rooms
-{
-    margin:1cm 5cm 1cm 1cm;
-    padding: 1%;
-background-color: white;
-border: rgba(128, 91, 91, 0.034);
-border-radius: 1cm;
-font-style: oblique;
-font-variant-caps: all-small-caps;
-color: hsla(hue, saturation, lightness, alpha);
+#rooms {
+  margin: 1cm 5cm 1cm 1cm;
+  padding: 1%;
+  background-color: white;
+  border: rgba(128, 91, 91, 0.034);
+  border-radius: 1cm;
+  font-style: oblique;
+  font-variant-caps: all-small-caps;
+  color: hsla(hue, saturation, lightness, alpha);
 }
 
-
-#Reserved
-{
-    color:white;
-    font-weight: bold;
-    background-color: black;
+#Reserved {
+  color: white;
+  font-weight: bold;
+  background-color: black;
 }
 
-#welcome
-{
-    background-color:rgb(167, 99, 10);
-    margin-left: 4cm;
-    margin-right: 15cm;
-    margin-top: 1cm;
-    padding:1cm;
-    border:double;
-    border-radius: 1cm;
-    color: rgb(51, 23, 3);
-font-weight: bolder;
-
+#welcome {
+  background-color: rgb(167, 99, 10);
+  margin-left: 4cm;
+  margin-right: 15cm;
+  margin-top: 1cm;
+  padding: 1cm;
+  border: double;
+  border-radius: 1cm;
+  color: rgb(51, 23, 3);
+  font-weight: bolder;
 }
 
-.quick
-{
-    background-color:transparent;
-    color: black;
- 
-    border-radius: 2cm;
+.quick {
+  background-color: transparent;
+  color: black;
+
+  border-radius: 2cm;
 }
-h4
-{
-font-size: xx-large;
-font-variant-caps: titling-caps;
-background-color: transparent;
+h4 {
+  font-size: xx-large;
+  font-variant-caps: titling-caps;
+  background-color: transparent;
 }
-h1
-{
-    font-size: large;
-    font-weight: bolder;
-    margin-left: 8cm;
+h1 {
+  font-size: large;
+  font-weight: bolder;
+  margin-left: 8cm;
 }
 
-.img
-{
-    margin-left:8cm;
+.img {
+  margin-left: 8cm;
 }
-h6{
-font-variant-caps: small-caps;
-font-style: italic;
-font-size: 0.8cm;
-color: rgb(51, 23, 3);
+h6 {
+  font-variant-caps: small-caps;
+  font-style: italic;
+  font-size: 0.8cm;
+  color: rgb(51, 23, 3);
 
-margin:1cm 8cm 0.5cm 6cm;
+  margin: 1cm 8cm 0.5cm 6cm;
+}
+#starttt {
+  margin-left: 8cm;
+  margin-top: 0cm;
+  margin-bottom: 1cm;
+  font-style: italic;
 
+  font-weight: bolder;
+  font-size: 0.2cm;
 }
-#starttt
-{
-    margin-left: 8cm;
-    margin-top: 0cm;
-    margin-bottom: 1cm;
-    font-style: italic;
-
-    font-weight: bolder;
-    font-size: 0.2cm;
+#gal {
+  background-color: transparent;
 }
-#gal
-{
-    background-color: transparent;
-}
-.rrr
-{
-    margin-left: 1cm;
-    margin-top: 0.5cm;
+.rrr {
+  margin-left: 1cm;
+  margin-top: 0.5cm;
 }
 
-#down
-{
-    background-color:rgba(165, 42, 42, 0.089);
-    color: rgb(51, 23, 3);
-    font-weight: bolder;
- padding: 0.5cm;
- border:  rgb(82, 65, 44);
-    border-style: double;
-}
-    
-
-#bbb
-{
-color:rgb(18, 59, 87);
-border-radius: 1cm;
-    font-weight: bolder;
-}
-h3{
-    font-style: italic;
+#down {
+  background-color: rgba(165, 42, 42, 0.089);
+  color: rgb(51, 23, 3);
+  font-weight: bolder;
+  padding: 0.5cm;
+  border: rgb(82, 65, 44);
+  border-style: double;
 }
 
-#text
-{
-    font-size: 20px;
-    font-style: italic;
-    font-weight: bolder;
+#bbb {
+  color: rgb(18, 59, 87);
+  border-radius: 1cm;
+  font-weight: bolder;
+}
+h3 {
+  font-style: italic;
 }
 
+#text {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+}
 
 h1 {
   text-align: center;
   font-family: Tahoma, Arial, sans-serif;
-  color: #06D85F;
+  color: #06d85f;
   margin: 80px 0;
 }
 
@@ -197,7 +168,7 @@ h1 {
   margin: 0 auto;
   background: transparent;
   padding: 35px;
- 
+
   border-radius: 20px/50px;
   background-clip: padding-box;
   text-align: center;
@@ -206,17 +177,17 @@ h1 {
 .button {
   font-size: 1em;
   padding: 10px;
-  color:black;
-  height:2cm;
+  color: black;
+  height: 2cm;
   width: 2cm;
-  border: 2px solid #06D85F;
+  border: 2px solid #06d85f;
   border-radius: 20px/50px;
   text-decoration: none;
   cursor: pointer;
   transition: all 0.3s ease-out;
 }
 .button:hover {
-  background: #06D85F;
+  background: #06d85f;
 }
 
 .overlay {
@@ -261,18 +232,18 @@ h1 {
   color: #333;
 }
 .popup .close:hover {
-  color: #06D85F;
+  color: #06d85f;
 }
 .popup .content {
   max-height: 30%;
   overflow: auto;
 }
 
-@media screen and (max-width: 700px){
-  .box{
+@media screen and (max-width: 700px) {
+  .box {
     width: 70%;
   }
-  .popup{
+  .popup {
     width: 70%;
   }
 }
