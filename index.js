@@ -1,8 +1,8 @@
 // Import stylesheets
-import './mybooking.css';
+import "./mybooking.css";
 
 // Write Javascript code!
-const appDiv = document.getElementById('app');
+const appDiv = document.getElementById("app");
 appDiv.innerHTML = `<head>
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="myBooking.css">
@@ -12,7 +12,7 @@ appDiv.innerHTML = `<head>
    <h6>Bluelight Guest house</h6> 
 <div id="starttt">
    
-    <img src=https://cache.marriott.com/marriottassets/marriott/AUHCY/auhcy-suite-0015-hor-clsc.jpg?interpolation=progressive-bilinear&" height="120" width="120">
+    <img src="https://lh3.googleusercontent.com/proxy/uKFlCVFQc4i2aDYslLlWvaP50rl99x4P0B5LpgLviauGVKTwC_2nGfdjk8I3mCRdRpsH0k9vg46rM7j3gqmGm3fYcdIPBHg0H2vPkBccXd-ZwGlag_B8jZC0" height="120" width="120">
   </div>
   
   <div class="para">
